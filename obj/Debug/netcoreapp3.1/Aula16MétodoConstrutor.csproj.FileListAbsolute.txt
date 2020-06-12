@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\bin\Debug\netcoreapp3.1\Aula16MétodoConstrutor.exe
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\bin\Debug\netcoreapp3.1\Aula16MétodoConstrutor.deps.json
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\bin\Debug\netcoreapp3.1\Aula16MétodoConstrutor.runtimeconfig.json
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\bin\Debug\netcoreapp3.1\Aula16MétodoConstrutor.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\bin\Debug\netcoreapp3.1\Aula16MétodoConstrutor.dll
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\bin\Debug\netcoreapp3.1\Aula16MétodoConstrutor.pdb
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\obj\Debug\netcoreapp3.1\Aula16MétodoConstrutor.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\obj\Debug\netcoreapp3.1\Aula16MétodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\obj\Debug\netcoreapp3.1\Aula16MétodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\obj\Debug\netcoreapp3.1\Aula16MétodoConstrutor.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\obj\Debug\netcoreapp3.1\Aula16MétodoConstrutor.dll
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\obj\Debug\netcoreapp3.1\Aula16MétodoConstrutor.pdb
+C:\Users\Pichau\Documents\Aula16MétodoConstrutor\obj\Debug\netcoreapp3.1\Aula16MétodoConstrutor.genruntimeconfig.cache
